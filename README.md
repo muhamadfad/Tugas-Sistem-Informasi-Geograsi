@@ -20,6 +20,6 @@ https://github.com/muhamadfad/Tugas-Sistem-Informasi-Geograsi.git
 ```
 Run Application
 ```bash
-  node App
+node App
 ```
     
